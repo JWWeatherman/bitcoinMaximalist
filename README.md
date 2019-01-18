@@ -19,7 +19,7 @@
 * We believe that a sound money will have a greater impact on human flourishing than anything else likely to occur in our lifetimes.
 
 
-## Technical
+## Technology
 
 * We are cypherpunks. We believe that the state died when encryption was invented and we are living through the death rattles.
 * One of the great advantages of open source software is that the best ideas are copied by competing projects.
