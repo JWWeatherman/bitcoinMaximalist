@@ -1,6 +1,4 @@
-Bullshit Manifesto
-
-# Bitcoin Maximalist Manifesto
+# Bitcoin Maximalist Bullshit Manifesto
 
 ## Economics
 * We are cypherpunks. We are anarcho-capitalists.
