@@ -1,3 +1,4 @@
+Bullshit
 
 # Bitcoin Maximalist Manifesto
 
